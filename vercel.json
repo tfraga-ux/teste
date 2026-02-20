@@ -1,6 +1,8 @@
 {
+  "framework": null,
+  "buildCommand": null,
+  "outputDirectory": ".",
   "rewrites": [
-    { "source": "/", "destination": "/13f_demo_report.html" },
     { "source": "/live", "destination": "/13f_report.html" }
   ],
   "headers": [
