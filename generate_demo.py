@@ -188,10 +188,10 @@ FUND_PROFILES = {
         "positions": (15, 30),
         "start_q": 0,
     },
-    "Suvretta Capital": {
-        "cik": "1766994",
-        "entity_name": "SUVRETTA CAPITAL MANAGEMENT LLC",
-        "description": "New York-based global long/short equity. Healthcare and technology focus.",
+    "Surgo Capital": {
+        "cik": None,
+        "entity_name": "SURGO CAPITAL MANAGEMENT LLC",
+        "description": "Surgo Capital Management hedge fund.",
         "aum_bn": [0.8, 1.1, 1.5, 2.0, 2.5, 3.0, 3.6, 4.1, 4.2, 3.5, 4.2, 4.8, 4.5, 5.0, 5.4, 5.8, 6.1, 6.4, 6.8, 7.1, 7.3, 4.8, 5.2, 5.6, 5.9, 6.2, 6.5, 6.8, 6.5, 6.8, 7.1, 7.4, 7.2, 7.5, 7.8, 8.0, 8.2, 8.4, 8.6],
         "core": ["45867G101","531134104","589331107","09075V102","15135B101","594918104","023135106","81762P102","025816109"],
         "positions": (20, 40),

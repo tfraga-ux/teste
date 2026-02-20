@@ -87,10 +87,10 @@ FUNDS = {
         "q": "Soroban Capital Partners",
         "description": "Founded 2010 by Eric Mandelblatt (ex-TPG-Axon)",
     },
-    "Suvretta Capital": {
+    "Surgo Capital": {
         "cik": None,
-        "q": "Suvretta Capital Management",
-        "description": "New York-based global long/short equity fund",
+        "q": "Surgo Capital Management",
+        "description": "Surgo Capital Management hedge fund",
     },
     "Whale Rock Capital": {
         "cik": "1516655",
